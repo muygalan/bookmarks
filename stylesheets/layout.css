@@ -31,20 +31,20 @@ select {
 #siteSets a {
 	font-weight: bold;
 	text-decoration: none; }
-#siteSets a:hover { color: #54aed4; }
+/* #siteSets a:hover { color: #54aed4; }
 #siteSets img { opacity: 0.3; }
-#siteSets img:hover { opacity: 1; }
+#siteSets img:hover { opacity: 1; } */
 
-#favoriteSites img { opacity: 0.3; }
-#favoriteSites img:hover { opacity: 1; }
+/* #favoriteSites img { opacity: 0.3; }
+#favoriteSites img:hover { opacity: 1; } */
 
 .footer {
 	margin-top: 20px;
 	font-size: 12px;
-	color: #ccc;
+	color: #000;
 }
-.footer a { color: #ccc; }
-.footer a:hover { color: #54aed4; }
+.footer a { color: #000; }
+/* .footer a:hover { color: #54aed4; } */
 
 .lowercase { text-transform: lowercase; }
 .uppercase { text-transform: uppercase; }
@@ -91,3 +91,4 @@ select {
 	    font-weight: normal;
 	    font-style: normal; }
 */
+
