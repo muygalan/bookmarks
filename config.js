@@ -165,7 +165,7 @@ var launchbotConfig = {
 
   // For favorites bar, enter absolute URIs 'http://', 'https://', 'ftp://' …
   favs: [
-    'hhttps://mail.google.com',
+    'https://mail.google.com',
     'http://www.trello.com',
     'https://www.twitter.com',
     'https://www.github.com',
